@@ -1,0 +1,7 @@
+laptop 0.15
+mug 0.20
+printer 0.05
+telephone 0.1
+Keyboard 0.15
+Monitor 0.20
+Earphone 0.15

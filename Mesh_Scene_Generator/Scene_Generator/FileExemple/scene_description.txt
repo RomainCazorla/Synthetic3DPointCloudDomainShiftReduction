@@ -1,0 +1,14 @@
+office1_layout.obj scene 000 1.0 1.0 1
+office2_layout.obj scene 000 1.0 1.0 1
+office3_layout.obj scene 000 1.0 1.0 1
+office4_layout.obj scene 000 1.0 1.0 1
+office5_layout.obj scene 000 1.0 1.0 1
+office6_layout.obj scene 000 1.0 1.0 1
+office8_layout.obj scene 000 1.0 1.0 1
+office9_layout.obj scene 000 1.0 1.0 1
+office10_layout.obj scene 000 1.0 1.0 1
+office11_layout.obj scene 000 1.0 1.0 1
+office12_layout.obj scene 000 1.0 1.0 1
+office13_layout.obj scene 000 1.0 1.0 1
+office14_layout.obj scene 000 1.0 1.0 1
+office15_layout.obj scene 000 1.0 1.0 1

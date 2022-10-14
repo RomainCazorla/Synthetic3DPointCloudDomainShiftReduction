@@ -1,0 +1,5 @@
+
+# Directories to ignore
+Mesh_Scene_Generator/.vs/
+Mesh_Scene_Generator/x64/
+Mesh_Scene_Generator/Scene_Generator/x64/

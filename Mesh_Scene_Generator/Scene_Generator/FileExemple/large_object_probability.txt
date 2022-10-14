@@ -1,0 +1,4 @@
+Sofa 0.02
+table 0.19
+Chair 0.55
+Bookshelf 0.24
